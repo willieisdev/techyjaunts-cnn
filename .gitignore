@@ -1,0 +1,5 @@
+.venv
+/src
+pyproject.toml
+uv.lock
+.python-version
